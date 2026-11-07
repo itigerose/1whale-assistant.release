@@ -1,1 +1,1 @@
-# 1whale-assistant.releases
+# 1whale-assistant.release
